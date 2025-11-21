@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Gap Analyzer",
+  "description": "Upload your resume and define a target role to receive a deep semantic gap analysis, skill match visualization, and a personalized action plan.",
+  "requestFramePermissions": []
+}
